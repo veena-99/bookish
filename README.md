@@ -6,4 +6,4 @@ This help  us in getting an idea, how far we have come in completing tasks. This
 The user will be able to select task/tasks wanted to complete within a fixed time, can set the timer or stop the timer. 
 More than one task can be selected. In this case the  weightage of the is distributed such that total weightage of all tasks selected 
 become  100% .
-we can add/modify /delete The task. The display will be in hh:mm format . JJ 
+we can add/modify /delete The task. The display will be in hh:mm format .  
